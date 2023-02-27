@@ -35,7 +35,7 @@ _Shanghai, China_
 
 Worked on ongoing research projects about numerical correctness in scientific computing.
 
-## Various software engineering positions - [Virtuos Games](www.virtuosgames.com) (2007 – 2021)
+## Various software engineering positions - [Virtuos Games](http://www.virtuosgames.com) (2007 – 2021)
 
 Worked in following positions: 
 * Software Engineer (2007-2011) 
