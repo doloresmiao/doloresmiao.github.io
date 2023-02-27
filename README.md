@@ -1,4 +1,4 @@
-email: wjmiao (at) ucdavis (dot) edu
+email: wjmiao (at) ucdavis (dot) edu\
 Linkedin: [here](https://www.linkedin.com/in/dolores-miao-82b4a061/)
 
 Welcome to Dolores Miao's homepage! You can find my professional and academic work here.
