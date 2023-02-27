@@ -45,15 +45,15 @@ Notable projects:
  
 * FINAL FANTASY X|X-2 HD Remaster (PS3, PSVita, PS4, PC)
 
-![Final Fantasy X](https://github.com/doloresmiao/doloresmiao.github.io/blob/main/ffx.jpg)
+![Final Fantasy X](ffx.jpg)
 
 * FINAL FANTASY XII THE ZODIAC AGE (PS4, Xbox one, Switch, PC)
 
-![Final Fantasy XII](https://github.com/doloresmiao/doloresmiao.github.io/blob/main/ffxii.webp)
+![Final Fantasy XII](ffxii.webp)
 
 * Bioshock: The Collection (Nintendo Switch) 
 
-![Bioshock Infinite](https://github.com/doloresmiao/doloresmiao.github.io/blob/main/bsi.webp)
+![Bioshock Infinite](bsi.webp)
 
 XCOM 2 Collection (Nintendo Switch) 
 Tales from the Borderlands (Gearbox/2K Games, engine upgrade/republishing on various platforms, ported to Switch) 
