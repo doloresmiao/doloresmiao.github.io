@@ -1,3 +1,6 @@
+email: [wjmiao@ucdavis.edu](wjmiao@ucdavis.edu)
+Linkedin: [here](https://www.linkedin.com/in/dolores-miao-82b4a061/)
+
 Welcome to Dolores Miao's homepage! You can find my professional and academic work here.
 
 # Education Experience
@@ -62,3 +65,11 @@ Notable projects:
 * Tales from the Borderlands (Switch) 
 
 ![Tales from the Borderlands](tob.jpg)
+
+# Skills
+
+Natural languages: can speak and write in fluent English and Chinese (Mandarin and Cantonese, the latter of which is of native fluency)
+
+Programming languages: worked on projects using C, C++, C#, Python, and Perl.\
+C/C++ variants include CUDA, HLSL, GLSL.
+
