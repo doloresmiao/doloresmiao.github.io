@@ -36,7 +36,7 @@ Worked in following positions:
 
 Assistant Technical Director work summary:	
  
-* Work with teams and technical director to make technical decisions w.r.t. projectsroposals and technical design documents for projects 
+* Work with teams and technical director to make technical decisions w.r.t. project proposals and technical design documents for projects 
 * Managing teams, tracking work progress and career growth of team members 
 * Feasibility research, complex feature implementation, and fixing critical bugs 
 * Taught Internal training courses: C#, Performance Engineering 
