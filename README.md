@@ -1,18 +1,22 @@
-email: [wjmiao@ucdavis.edu](wjmiao@ucdavis.edu)
+email: [wjmiao@ucdavis.edu](mailto:wjmiao@ucdavis.edu)
 Linkedin: [here](https://www.linkedin.com/in/dolores-miao-82b4a061/)
 
 Welcome to Dolores Miao's homepage! You can find my professional and academic work here.
 
+# Short Biography
+
+Dolores Miao is a Computer Science PhD student at UC Davis, under supervision by [Prof. Cindy Rubio-González](https://web.cs.ucdavis.edu/~rubio/). Her research focuses on *Software Engineering* and *Programming Languages*, mainly on software optimization and correctness on numerical programs involving floating-point arithmetics. Previously she was awarded a BEng degree in Communication Science and Engineering at Fudan University in 2007.
+
+She is also a veteran lead software engineer in video game development, with 14 years of project experience, including project and team management. She is proficient in game development in various areas such as graphics/shader programming, network multiplayer protocols, game engine frameworks, performance engineering on run time and I/O, and debugging. The video game **Final Fantasy XII The Zodiac Age**, which she worked as lead software engineer, was nominated for "Best Remake/Remaster" at IGN's Best of 2017 Awards, and won "Best Remaster" at Game Informer's Best of 2017 Awards and 2017 RPG of the Year Awards.
+
+Dolores Miao grew up in southern China, having lived her first 18 years in Guangdong Province, and her next 18 years in Shanghai. She is a transgender woman and has been in gender transition since 2019.
+
 # Education Experience
 
-## Doctor of Philosophy - Computer Science - University of California, Davis (2020 – present)
+## University of California, Davis (2020 – present)
 
-GPA: 4.0
-
-Work as Graduate Student Researcher in the Programming Languages and Software Engineering lab, under supervision by [Prof. Cindy Rubio-González](https://web.cs.ucdavis.edu/~rubio/).
-
-* Research on software optimization. Reduce the time and memory usage when running numerical programs.  
-* Research on testing methods for numerical software correctness. 
+Doctor of Philosophy, Computer Science\
+_Davis, CA, USA_
 
 Published work:
 
@@ -20,9 +24,10 @@ Expression Isolation of Compiler-Induced Numerical Inconsistencies in Heterogene
 
 Another two papers are currently work in progress.
 
-## Bachelor of Engineering - Communication Science and Engineering - Fudan University (2003 -2007)
+## Fudan University (2003 - 2007)
 
-GPA: 3.21
+Bachelor of Engineering, Communication Science and Engineering\
+_Shanghai, China_
 
 # Work experience
 
