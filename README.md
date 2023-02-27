@@ -2,7 +2,7 @@ Welcome to Dolores Miao's homepage! You can find my professional and academic wo
 
 # Education Experience
 
-### Doctor of Philosophy - Computer Science - University of California, Davis (2020 – present)
+## Doctor of Philosophy - Computer Science - University of California, Davis (2020 – present)
 
 GPA: 4.0
 
@@ -17,17 +17,17 @@ Expression Isolation of Compiler-Induced Numerical Inconsistencies in Heterogene
 
 Another two papers are currently work in progress.
 
-### Bachelor of Engineering - Communication Science and Engineering - Fudan University (2003 -2007)
+## Bachelor of Engineering - Communication Science and Engineering - Fudan University (2003 -2007)
 
 GPA: 3.21
 
 # Work experience
 
-### Computing Graduate Student Intern - Lawrence Livermore National Laboratory (Summer 2022)
+## Computing Graduate Student Intern - Lawrence Livermore National Laboratory (Summer 2022)
 
 Worked on ongoing research projects about numerical correctness in scientific computing.
 
-### Various software engineering positions - [Virtuos Games](www.virtuosgames.com) (2007 – 2021)
+## Various software engineering positions - [Virtuos Games](www.virtuosgames.com) (2007 – 2021)
 
 Worked in following positions: 
 * Software Engineer (2007-2011) 
@@ -43,7 +43,7 @@ Assistant Technical Director work summary:
 
 Notable projects: 
  
-* FINAL FANTASY X|X-2 HD Remaster (PS3, PSVita, PS4, PC)
+* FINAL FANTASY X/X-2 HD Remaster (PS3, PSVita, PS4, PC)
 
 ![Final Fantasy X](ffx.jpg)
 
@@ -51,9 +51,14 @@ Notable projects:
 
 ![Final Fantasy XII](ffxii.webp)
 
-* Bioshock: The Collection (Nintendo Switch) 
+* Bioshock: The Collection (Switch) 
 
 ![Bioshock Infinite](bsi.webp)
 
-XCOM 2 Collection (Nintendo Switch) 
-Tales from the Borderlands (Gearbox/2K Games, engine upgrade/republishing on various platforms, ported to Switch) 
+* XCOM 2 Collection (Switch) 
+
+![XCOM 2](xcom2.webp)
+
+* Tales from the Borderlands (Switch) 
+
+![Tales from the Borderlands](tob.jpg)
