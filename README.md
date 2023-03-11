@@ -3,6 +3,8 @@ Linkedin: [here](https://www.linkedin.com/in/dolores-miao-82b4a061/)
 
 Welcome to Dolores Miao's homepage! You can find my professional and academic work here.
 
+<img src="photo.jpeg">
+
 # Short Biography
 
 Dolores Miao is a Computer Science PhD student at UC Davis, under supervision by [Prof. Cindy Rubio-González](https://web.cs.ucdavis.edu/~rubio/). Her research focuses on *Software Engineering* and *Programming Languages*, mainly on software optimization and correctness on numerical programs involving floating-point arithmetics. Prior to that, she was awarded a BEng degree in Communication Science and Engineering at Fudan University in 2007.
