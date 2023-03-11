@@ -3,7 +3,7 @@ Linkedin: [here](https://www.linkedin.com/in/dolores-miao-82b4a061/)
 
 Welcome to Dolores Miao's homepage! You can find my professional and academic work here.
 
-<img src="photo.jpeg">
+<img src="photo.jpeg"  width="400" height="400" />
 
 # Short Biography
 
