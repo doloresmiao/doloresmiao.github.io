@@ -54,23 +54,23 @@ Assistant Technical Director work summary:
 
 Notable projects: 
  
-* FINAL FANTASY X/X-2 HD Remaster (PS3, PSVita, PS4, PC)
+* [FINAL FANTASY X/X-2 HD Remaster (PS3, PSVita, PS4, PC)](https://finalfantasyxhd.square-enix-games.com/en-us/home/)
 
 ![Final Fantasy X](ffx.jpg)
 
-* FINAL FANTASY XII THE ZODIAC AGE (PS4, Xbox one, Switch, PC)
+* [FINAL FANTASY XII THE ZODIAC AGE (PS4, Xbox one, Switch, PC)](https://finalfantasyxhd.square-enix-games.com/en-us/home/)
 
 ![Final Fantasy XII](ffxii.webp)
 
-* Bioshock: The Collection (Switch) 
+* [Bioshock: The Collection (Switch)](https://2k.com/en-US/game/bioshock-the-collection/)
 
 ![Bioshock Infinite](bsi.webp)
 
-* XCOM 2 Collection (Switch) 
+* [XCOM 2 Collection (Switch)](https://store.2k.com/game/buy-xcom-2-collection)
 
 ![XCOM 2](xcom2.webp)
 
-* Tales from the Borderlands (Switch) 
+* [Tales from the Borderlands (Switch)](https://borderlands.2k.com/tales-from-the-borderlands/)
 
 ![Tales from the Borderlands](tob.jpg)
 
