@@ -34,6 +34,10 @@ _Shanghai, China_
 
 # Work experience
 
+## Computing Graduate Student Intern - Lawrence Livermore National Laboratory (Summer 2023)
+
+OpenMP program mutation testing with the goal of creating an expert system for performance speedup. Workshop paper to be reviewed.
+
 ## Computing Graduate Student Intern - Lawrence Livermore National Laboratory (Summer 2022)
 
 Worked on ongoing research projects about numerical correctness in scientific computing.
