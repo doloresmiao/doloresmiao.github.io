@@ -83,6 +83,9 @@ Notable projects:
 
 Natural languages: can speak and write in fluent English and Chinese (Mandarin and Cantonese, the latter of which is of native fluency)
 
-Programming languages: worked on projects using C, C++, C#, Python, and Perl.\
-C/C++ variants include CUDA, HLSL, GLSL.
+Programming: 
 
+Worked on projects using C, C++, C#, and Python programming languages.\
+Experience using parallel programming paradigms including pthread, OpenCilk, OpenMP & CUDA.\
+Knowledge about real-time rendering pipelines, 6 year experience in shader languages such as HLSL and GLSL.\
+Compiler engineering experience using LLVM passes, ROSE and Clang source-to-source compiler plugins.
