@@ -8,7 +8,7 @@ Welcome to Dolores Miao's homepage! You can find my professional and academic wo
 
 # Short Biography
 
-Dolores Miao is a Computer Science PhD student at UC Davis, under supervision by [Prof. Cindy Rubio-González](https://web.cs.ucdavis.edu/~rubio/). Her research focuses on *Software Engineering* and *Programming Languages*, mainly on software optimization and correctness on numerical programs involving floating-point arithmetics. Prior to that, she was awarded a BEng degree in Communication Science and Engineering at Fudan University in 2007.
+Dolores Miao is a Computer Science PhD student at UC Davis, at the Programming Languages and Software Engineering lab led by [Prof. Cindy Rubio-González](https://web.cs.ucdavis.edu/~rubio/). Her research focuses on software optimization and correctness on numerical programs involving floating-point arithmetics. Prior to that, she was awarded a BEng degree in Communication Science and Engineering at Fudan University in 2007.
 
 She is also a veteran lead software engineer in video game development, with 14 years of project experience, including project and team management. She is proficient in game development in various areas such as graphics/shader programming, network multiplayer protocols, game engine frameworks, performance engineering on run time and I/O, and debugging. She is the lead software engineer of video game **Final Fantasy XII The Zodiac Age**, which was nominated for "Best Remake/Remaster" at IGN's Best of 2017 Awards, and won "Best Remaster" at Game Informer's Best of 2017 Awards and 2017 RPG of the Year Awards.
 
@@ -24,7 +24,7 @@ _Davis, CA, USA_
 Published work:
 
 Expression Isolation of Compiler-Induced Numerical Inconsistencies in Heterogeneous Code, D. Miao, I. Laguna, and C. Rubio-González. In: Proceedings of ISC High Performance (ISC'23), Hamburg, Germany, May 2023. ([GitHub repository](https://github.com/LLNL/Ciel), [Paper](isc23.pdf), [BibTex](isc23.bib)) \
-Recipient of the Hans Meuer Award for Best Research Paper.
+<span style="color:blue">(Hans Meuer Award for Best Research Paper)</span>.
 
 Another two papers are currently work in progress.
 
@@ -63,7 +63,7 @@ Notable projects:
 
 ![Final Fantasy X](ffx.jpg)
 
-* [FINAL FANTASY XII THE ZODIAC AGE (PS4, Xbox one, Switch, PC)](https://finalfantasyxhd.square-enix-games.com/en-us/home/)
+* [FINAL FANTASY XII THE ZODIAC AGE (PS4, Xbox one, Switch, PC)](https://finalfantasyxii.square-enix-games.com/home/?lang=us)
 
 ![Final Fantasy XII](ffxii.webp)
 
