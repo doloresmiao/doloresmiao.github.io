@@ -23,10 +23,14 @@ _Davis, CA, USA_
 
 Published work:
 
-Expression Isolation of Compiler-Induced Numerical Inconsistencies in Heterogeneous Code, D. Miao, I. Laguna, and C. Rubio-González. In: Proceedings of ISC High Performance (ISC'23), Hamburg, Germany, May 2023. ([GitHub repository](https://github.com/LLNL/Ciel), [Paper](isc23.pdf), [BibTex](isc23.bib)) \
-<span style="color:blue">(Hans Meuer Award for Best Research Paper)</span>.
+Expression Isolation of Compiler-Induced Numerical Inconsistencies in Heterogeneous Code, D. Miao, I. Laguna, and C. Rubio-González. In: Proceedings of ISC High Performance (ISC'23), Hamburg, Germany, May 2023. <span style="color:blue">(Hans Meuer Award for Best Research Paper)</span> \
+([GitHub repository](https://github.com/LLNL/Ciel), [Paper](isc23.pdf), [BibTex](isc23.bib))
 
-Another two papers are currently work in progress.
+(Undisclosed paper currently awaiting publication.)
+
+(Undisclosed paper currently submitted and under review.)
+
+(Undisclosed paper currently submitted and under review.)
 
 ## Fudan University (2003 - 2007)
 
