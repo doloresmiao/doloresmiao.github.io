@@ -27,7 +27,7 @@ Miao, D., Laguna, I., & Rubio-González, C. (2023, May). Expression Isolation of
 ([GitHub repository](https://github.com/LLNL/Ciel), [Paper](isc23.pdf), [BibTex](isc23.bib))
 
 Dolores Miao, Ignacio Laguna, Giorgis Georgakoudis, Konstantinos Parasyris, and Cindy Rubio-González. 2024. MUPPET: Optimizing Performance in OpenMP via Mutation Testing. In Proceedings of the 15th International Workshop on Programming Models and Applications for Multicores and Manycores (PMAM '24). Association for Computing Machinery, New York, NY, USA, 22–31. \
-[BibTex](pmam24.bib)
+([Paper](pmam24.pdf), [BibTex](pmam24.bib))
 
 (Undisclosed paper currently submitted and under review.)
 
