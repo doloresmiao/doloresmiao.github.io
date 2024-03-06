@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3649169.3649246,
+author = {Miao, Dolores and Laguna, Ignacio and Georgakoudis, Giorgis and Parasyris, Konstantinos and Rubio-Gonz\'{a}lez, Cindy},
+title = {MUPPET: Optimizing Performance in OpenMP via Mutation Testing},
+year = {2024},
+isbn = {9798400705991},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3649169.3649246},
+doi = {10.1145/3649169.3649246},
+abstract = {Performance optimization continues to be a challenge in modern HPC software. Existing performance optimization techniques, including profiling-based and auto-tuning techniques, fail to indicate program modifications at the source level thus preventing their portability across compilers. This paper describes Muppet, a new approach that identifies program modifications called mutations aimed at improving program performance. Muppet's mutations help developers reason about performance defects and missed opportunities to improve performance at the source code level. In contrast to compiler techniques that optimize code at intermediate representations (IR), Muppet uses the idea of source-level mutation testing to relax correctness constraints and automatically discover optimization opportunities that otherwise are not feasible using the IR. We demonstrate the Muppet's concept in the OpenMP programming model. Muppet generates a list of OpenMP mutations that alter the program parallelism in various ways, and is capable of running a variety of optimization algorithms such as Bayesian Optimization and delta debugging to find a subset of mutations which, when applied to the original program, cause the most speedup while maintaining program correctness. When Muppet is evaluated against a diverse set of benchmark programs and proxy applications, it is capable of finding sets of mutations in 70\% of the evaluated programs that induce speedup.},
+booktitle = {Proceedings of the 15th International Workshop on Programming Models and Applications for Multicores and Manycores},
+pages = {22–31},
+numpages = {10},
+keywords = {Bayesian optimization, OpenMP, delta-debugging algorithm, dynamic program analysis, mutation testing, performance optimization},
+location = {<conf-loc>, <city>Edinburgh</city>, <country>United Kingdom</country>, </conf-loc>},
+series = {PMAM '24}
+}
