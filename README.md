@@ -30,9 +30,9 @@ Miao, D., Laguna, I., & Rubio-González, C. (2023, May). Expression Isolation of
 Miao, D., Laguna, I., Georgakoudis, G., Parasyris, K., & Rubio-González, C. (2024, March). MUPPET: Optimizing Performance in OpenMP via Mutation Testing. In Proceedings of the 15th International Workshop on Programming Models and Applications for Multicores and Manycores (pp. 22-31).\
 ([Paper](pmam24.pdf), [BibTex](pmam24.bib))
 
-(Undisclosed paper currently submitted and under review.)
+(Undisclosed paper accepted and currently awaiting publication.)
 
-(Undisclosed paper currently submitted and under review.)
+(Undisclosed paper currently in progress.)
 
 ## Fudan University (2003 - 2007)
 
