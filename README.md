@@ -22,7 +22,12 @@ Dolores Miao grew up in southern China, having lived her first 18 years in Guang
 Doctor of Philosophy, Computer Science\
 _Davis, CA, USA_
 
-Published work:
+## Fudan University (2003 - 2007)
+
+Bachelor of Engineering, Communication Science and Engineering\
+_Shanghai, China_
+
+# Publications
 
 Miao, D., Laguna, I., & Rubio-González, C. (2023, May). Expression Isolation of Compiler-Induced Numerical Inconsistencies in Heterogeneous Code. In International Conference on High Performance Computing (pp. 381-401). Cham: Springer Nature Switzerland.<span style="color:blue">(Hans Meuer Award for Best Research Paper)</span> \
 ([GitHub repository](https://github.com/LLNL/Ciel), [Paper](isc23.pdf), [BibTex](isc23.bib))
@@ -33,11 +38,6 @@ Miao, D., Laguna, I., Georgakoudis, G., Parasyris, K., & Rubio-González, C. (20
 (Undisclosed paper accepted and currently awaiting publication.)
 
 (Undisclosed paper currently in progress.)
-
-## Fudan University (2003 - 2007)
-
-Bachelor of Engineering, Communication Science and Engineering\
-_Shanghai, China_
 
 # Work experience
 
