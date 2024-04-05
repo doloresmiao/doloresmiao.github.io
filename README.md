@@ -47,13 +47,19 @@ PLDI 2024, ICSE 2024, OOPSLA 2023, FSE 2022
 
 # Publications
 
-Miao, D., Laguna, I., & Rubio-González, C. (2023, May). Expression Isolation of Compiler-Induced Numerical Inconsistencies in Heterogeneous Code. In International Conference on High Performance Computing (pp. 381-401). Cham: Springer Nature Switzerland.<span style="color:blue">(Hans Meuer Award for Best Research Paper)</span> \
-([GitHub repository](https://github.com/LLNL/Ciel), [Paper](isc23.pdf), [BibTex](isc23.bib))
+Miao, D., Laguna, I., & Rubio-González, C. (2023, May). \
+Expression Isolation of Compiler-Induced Numerical Inconsistencies in Heterogeneous Code. \
+In International Conference on High Performance Computing 2023 (ISC'23). <span style="color:blue">(Hans Meuer Award for Best Research Paper)</span> \
+([GitHub repository](https://github.com/LLNL/Ciel), [PDF](isc23.pdf), [BibTex](isc23.bib))
 
-Miao, D., Laguna, I., Georgakoudis, G., Parasyris, K., & Rubio-González, C. (2024, March). MUPPET: Optimizing Performance in OpenMP via Mutation Testing. In Proceedings of the 15th International Workshop on Programming Models and Applications for Multicores and Manycores (pp. 22-31).\
-([Paper](pmam24.pdf), [BibTex](pmam24.bib))
+Miao, D., Laguna, I., Georgakoudis, G., Parasyris, K., & Rubio-González, C. (2024, March). \
+MUPPET: Optimizing Performance in OpenMP via Mutation Testing. \
+In Proceedings of the 15th International Workshop on Programming Models and Applications for Multicores and Manycores (PMAM'24).\
+([PDF](pmam24.pdf), [BibTex](pmam24.bib))
 
-(Undisclosed paper accepted and currently awaiting publication.)
+Miao, D., Laguna, I., & Rubio-González, C. (2023, May). \
+Input Range Generation for Compiler-Induced Numerical Inconsistencies. \
+To appear in Proceedings of the 38th ACM International Conference on Supercomputing (ICS'24).
 
 (Undisclosed paper currently in progress.)
 
