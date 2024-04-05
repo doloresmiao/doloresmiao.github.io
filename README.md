@@ -27,6 +27,24 @@ _Davis, CA, USA_
 Bachelor of Engineering, Communication Science and Engineering\
 _Shanghai, China_
 
+# Research and Teaching experience
+
+## Computing Graduate Student Intern - Lawrence Livermore National Laboratory (Summer 2023)
+
+OpenMP program mutation testing with the goal of creating an expert system for performance speedup. Workshop paper to be reviewed.
+
+## Computing Graduate Student Intern - Lawrence Livermore National Laboratory (Summer 2022)
+
+Worked on ongoing research projects about numerical correctness in scientific computing.
+
+## Teaching Assistants
+
+ECS 140A Programming Languages - University of California, Davis (Spring 2024, 2023)
+
+## Co-reviewer
+
+PLDI 2024, ICSE 2024, OOPSLA 2023, FSE 2022
+
 # Publications
 
 Miao, D., Laguna, I., & Rubio-González, C. (2023, May). Expression Isolation of Compiler-Induced Numerical Inconsistencies in Heterogeneous Code. In International Conference on High Performance Computing (pp. 381-401). Cham: Springer Nature Switzerland.<span style="color:blue">(Hans Meuer Award for Best Research Paper)</span> \
@@ -39,15 +57,7 @@ Miao, D., Laguna, I., Georgakoudis, G., Parasyris, K., & Rubio-González, C. (20
 
 (Undisclosed paper currently in progress.)
 
-# Work experience
-
-## Computing Graduate Student Intern - Lawrence Livermore National Laboratory (Summer 2023)
-
-OpenMP program mutation testing with the goal of creating an expert system for performance speedup. Workshop paper to be reviewed.
-
-## Computing Graduate Student Intern - Lawrence Livermore National Laboratory (Summer 2022)
-
-Worked on ongoing research projects about numerical correctness in scientific computing.
+# Industry Experience
 
 ## Various software engineering positions - [Virtuos Games](http://www.virtuosgames.com) (2007 – 2021)
 
