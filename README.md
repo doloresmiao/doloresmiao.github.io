@@ -57,7 +57,7 @@ MUPPET: Optimizing Performance in OpenMP via Mutation Testing. \
 In Proceedings of the 15th International Workshop on Programming Models and Applications for Multicores and Manycores (PMAM'24).\
 ([PDF](pmam24.pdf), [BibTex](pmam24.bib))
 
-Miao, D., Laguna, I., & Rubio-González, C. (2023, May). \
+Miao, D., Laguna, I., & Rubio-González, C. (2024, June). \
 Input Range Generation for Compiler-Induced Numerical Inconsistencies. \
 To appear in Proceedings of the 38th ACM International Conference on Supercomputing (ICS'24).
 
