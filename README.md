@@ -1,7 +1,7 @@
 email: wjmiao (at) ucdavis (dot) edu\
 Linkedin: [here](https://www.linkedin.com/in/dolores-miao-82b4a061/)
 GitHub user: [here](https://github.com/doloresmiao/)
-CV: [here](miao_CV_resume.pdf)
+CV: [here](miao_CV_resume.pdf) \
 Last updated: April 7th, 2024
 
 Welcome to Dolores Miao's homepage! You can find my professional and academic work here.
