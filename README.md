@@ -2,6 +2,7 @@ email: wjmiao (at) ucdavis (dot) edu\
 Linkedin: [here](https://www.linkedin.com/in/dolores-miao-82b4a061/)
 GitHub user: [here](https://github.com/doloresmiao/)
 CV: [here](miao_CV_resume.pdf)
+Last updated: April 7th, 2024
 
 Welcome to Dolores Miao's homepage! You can find my professional and academic work here.
 
@@ -27,15 +28,11 @@ _Davis, CA, USA_
 Bachelor of Engineering, Communication Science and Engineering\
 _Shanghai, China_
 
-# Research and Teaching experience
+# Research and Teaching Experience
 
-## Computing Graduate Student Intern - Lawrence Livermore National Laboratory (Summer 2023)
+## Computing Graduate Student Intern - Lawrence Livermore National Laboratory (Summer 2023, 2022)
 
-OpenMP program mutation testing with the goal of creating an expert system for performance speedup. Workshop paper to be reviewed.
-
-## Computing Graduate Student Intern - Lawrence Livermore National Laboratory (Summer 2022)
-
-Worked on ongoing research projects about numerical correctness in scientific computing.
+Worked on ongoing research projects about numerical correctness and performance optimizations in HPC programs.
 
 ## Teaching Assistants
 
