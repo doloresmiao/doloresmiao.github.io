@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3650200.3656618,
+author = {Miao, Dolores and Laguna, Ignacio and Rubio-Gonz\'{a}lez, Cindy},
+title = {Input Range Generation for Compiler-Induced Numerical Inconsistencies},
+year = {2024},
+isbn = {9798400706103},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3650200.3656618},
+doi = {10.1145/3650200.3656618},
+abstract = {Compiler-induced numerical inconsistencies present a significant challenge when testing and verifying numerical software—they can arise in a variety of situations, such as when porting code to a new platform or when using a different compiler or optimization flag. While existing tools can identify the source code location that induce an inconsistency for a specific input, no techniques are available to find input ranges where inputs that trigger these inconsistencies exist. In this paper, we propose a multi-phase approach to detect unknown input ranges that induce such inconsistencies; we call them inconsistency-inducing inputs. Our approach combines input-partitioned and coverage-based input sampling, input clustering, and optimization algorithms. We implement our approach in the tool CIGEN, which finds inputs that trigger high compiler-induced inconsistencies in numerical programs and outputs a list of input ranges containing such inconsistency-inducing inputs. Our experimental evaluation show 53.4\% improvement over the state of the art in finding inputs that trigger compiler-induced inconsistencies in 175 GNU Scientific Library (GSL) functions. We further examine a subset of the inconsistencies and discuss their characteristics and possible root causes.},
+booktitle = {Proceedings of the 38th ACM International Conference on Supercomputing},
+pages = {201–212},
+numpages = {12},
+keywords = {compiler optimizations, floating-point arithmetic, input generation, numerical reliability, numerical software, reproducibility, software testing},
+location = {<conf-loc>, <city>Kyoto</city>, <country>Japan</country>, </conf-loc>},
+series = {ICS '24}
+}
