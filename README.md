@@ -3,7 +3,7 @@ ORCID: 0000-0002-7511-0269 \
 Linkedin: [here](https://www.linkedin.com/in/dolores-miao-82b4a061/)
 GitHub user: [here](https://github.com/doloresmiao/)
 CV: [here](miao_CV_resume.pdf) \
-Last updated: April 7th, 2024
+Last updated: June 4th, 2024
 
 Welcome to Dolores Miao's homepage! You can find my professional and academic work here.
 
@@ -49,7 +49,8 @@ PLDI 2024, ICSE 2024, OOPSLA 2023, FSE 2022
 
 Miao, D., Laguna, I., & Rubio-González, C. (2024, June) \
 **Input Range Generation for Compiler-Induced Numerical Inconsistencies** \
-To appear in Proceedings of the 38th ACM International Conference on Supercomputing (ICS'24)
+In Proceedings of the 38th ACM International Conference on Supercomputing (ICS'24) \
+([PDF](ics24.pdf))
 
 Miao, D., Laguna, I., Georgakoudis, G., Parasyris, K., & Rubio-González, C. (2024, March) \
 **MUPPET: Optimizing Performance in OpenMP via Mutation Testing** \
