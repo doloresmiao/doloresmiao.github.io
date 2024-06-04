@@ -50,7 +50,7 @@ PLDI 2024, ICSE 2024, OOPSLA 2023, FSE 2022
 Miao, D., Laguna, I., & Rubio-González, C. (2024, June) \
 **Input Range Generation for Compiler-Induced Numerical Inconsistencies** \
 In Proceedings of the 38th ACM International Conference on Supercomputing (ICS'24) \
-([PDF](ics24.pdf))
+([GitHub repository](https://github.com/LLNL/CIGEN), [PDF](ics24.pdf), [BibTex](ics24.bib))
 
 Miao, D., Laguna, I., Georgakoudis, G., Parasyris, K., & Rubio-González, C. (2024, March) \
 **MUPPET: Optimizing Performance in OpenMP via Mutation Testing** \
