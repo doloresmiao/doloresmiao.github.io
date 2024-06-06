@@ -11,7 +11,7 @@ Welcome to Dolores Miao's homepage! You can find my professional and academic wo
 
 # Short Biography
 
-Dolores Miao is a Computer Science PhD student at UC Davis, at the Programming Languages and Software Engineering lab led by [Prof. Cindy Rubio-González](https://web.cs.ucdavis.edu/~rubio/). Her research focuses on software optimization and correctness on numerical programs involving floating-point arithmetics. Prior to that, she was awarded a BEng degree in Communication Science and Engineering at Fudan University in 2007.
+Dolores Miao is a Computer Science PhD student at UC Davis, at the Programming Languages and Software Engineering lab led by [Prof. Cindy Rubio-González](https://web.cs.ucdavis.edu/~rubio/). Her research areas are correctness on numerical programs involving floating-point arithmetics, and performance optimization of parallel programs. Prior to that, she was awarded a BEng degree in Communication Science and Engineering at Fudan University in 2007.
 
 She is also a veteran lead software engineer in video game development, with 14 years of project experience, including project and team management. She is proficient in game development in various areas such as graphics/shader programming, network multiplayer protocols, game engine frameworks, performance engineering on run time and I/O, and debugging. She is the lead software engineer of video game **Final Fantasy XII The Zodiac Age**, which was nominated for "Best Remake/Remaster" at IGN's Best of 2017 Awards, and won "Best Remaster" at Game Informer's Best of 2017 Awards and 2017 RPG of the Year Awards.
 
@@ -33,7 +33,7 @@ _Shanghai, China_
 
 ## Computing Graduate Student Intern - Lawrence Livermore National Laboratory (Summer 2023, 2022)
 
-Worked on ongoing research projects about numerical correctness and performance optimizations in HPC programs.
+Worked on ongoing research projects about numerical correctness and performance optimizations.
 
 ## Teaching Assistants
 
