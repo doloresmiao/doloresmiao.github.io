@@ -45,7 +45,7 @@ PLDI 2024, ICSE 2024, OOPSLA 2023, FSE 2022
 
 # Publications
 
-(Undisclosed paper currently preparing publication.)
+(Undisclosed paper currently preparing for publication.)
 
 Miao, D., Laguna, I., & Rubio-González, C. (2024, June) \
 **Input Range Generation for Compiler-Induced Numerical Inconsistencies** \
