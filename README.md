@@ -1,5 +1,7 @@
+# Contact Information
+
 email: wjmiao (at) ucdavis (dot) edu\
-ORCID: 0000-0002-7511-0269 \
+ORCID: [0000-0002-7511-0269](https://orcid.org/0000-0002-7511-0269) \
 Linkedin: [here](https://www.linkedin.com/in/dolores-miao-82b4a061/)
 GitHub user: [here](https://github.com/doloresmiao/)
 CV: [here](miao_CV_resume.pdf) \
