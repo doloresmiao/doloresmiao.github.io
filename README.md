@@ -3,7 +3,6 @@
 email: wjmiao (at) ucdavis (dot) edu\
 ORCID: [0000-0002-7511-0269](https://orcid.org/0000-0002-7511-0269) \
 Linkedin: [here](https://www.linkedin.com/in/dolores-miao-82b4a061/)
-GitHub user: [here](https://github.com/doloresmiao/)
 CV: [here](miao_CV_resume.pdf) \
 Last updated: August 16th, 2024
 
@@ -50,7 +49,7 @@ PLDI 2024, ICSE 2024, OOPSLA 2023, FSE 2022
 Miao, D., Laguna, I., Georgakoudis, G., Parasyris, K., & Rubio-González, C. (2024, August) \
 **An Automated OpenMP Mutation Testing Framework for Performance Optimization** \
 In Parallel Computing (PARCO), Volume 121 \
-([PDF](https://www.sciencedirect.com/science/article/pii/S0167819124000358), [Bibtex](parco121.bib))
+([PDF](https://doi.org/10.1016/j.parco.2024.103097), [Bibtex](parco121.bib))
 
 Miao, D., Laguna, I., & Rubio-González, C. (2024, June) \
 **Input Range Generation for Compiler-Induced Numerical Inconsistencies** \
