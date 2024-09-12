@@ -4,7 +4,7 @@ email: wjmiao (at) ucdavis (dot) edu\
 ORCID: [0000-0002-7511-0269](https://orcid.org/0000-0002-7511-0269) \
 Linkedin: [here](https://www.linkedin.com/in/dolores-miao-82b4a061/)
 CV: [here](miao_CV_resume.pdf) \
-Last updated: August 23rd, 2024
+Last updated: September 12th, 2024
 
 Welcome to Dolores Miao's homepage! You can find my professional and academic work here.
 
@@ -32,7 +32,7 @@ _Shanghai, China_
 
 # Research and Teaching Experience
 
-## Computing Graduate Student Intern - Lawrence Livermore National Laboratory (Summer 2023, 2022)
+## Computing Graduate Student Intern - Lawrence Livermore National Laboratory (Summer 2022 - 2024)
 
 Worked on ongoing research projects about numerical correctness and performance optimizations.
 
@@ -42,7 +42,7 @@ ECS 140A Programming Languages - University of California, Davis (Spring 2024, 2
 
 ## Co-reviewer
 
-PLDI 2024, ICSE 2024, OOPSLA 2023, FSE 2022
+ICSE 2025, PLDI 2024, ICSE 2024, OOPSLA 2023, FSE 2022
 
 # Publications
 
