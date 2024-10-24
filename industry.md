@@ -4,7 +4,7 @@ layout: default
 filename: industry.md
 --- 
 
-[About](README.md) | Academic & Education | [Industry (GameDev)](industry.md) | Links
+[About](README.md) | [Education](education.md) | [Publications](publications.md) | [Industry (GameDev)](industry.md) | Blog (TBD)
 
 # Industry Experience
 
