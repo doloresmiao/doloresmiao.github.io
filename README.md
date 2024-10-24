@@ -1,3 +1,5 @@
+About | Academic & Education | [Industry (GameDev)](industry.md) | Links
+
 # Contact Information
 
 email: wjmiao (at) ucdavis (dot) edu\
