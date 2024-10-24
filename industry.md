@@ -3,6 +3,7 @@ title: Industry Experience - Dolores Miao
 layout: default
 filename: industry.md
 --- 
+[About](README.md) | Academic & Education | [Industry (GameDev)](industry.md) | Links
 
 # Industry Experience
 
