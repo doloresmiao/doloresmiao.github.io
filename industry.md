@@ -1,3 +1,9 @@
+---
+title: Industry Experience - Dolores Miao
+layout: template
+filename: industry.md
+--- 
+
 # Industry Experience
 
 ## Various software engineering positions - [Virtuos Games](http://www.virtuosgames.com) (2007 – 2021)
