@@ -1,4 +1,4 @@
-About | Academic & Education | [Industry (GameDev)](industry.md) | Links
+[About](README.md) | Academic & Education | [Industry (GameDev)](industry.md) | Links
 
 # Contact Information
 
