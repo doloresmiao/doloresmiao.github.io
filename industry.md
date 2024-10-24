@@ -1,6 +1,6 @@
 ---
 title: Industry Experience - Dolores Miao
-theme: jekyll-theme-dinky
+layout: default
 filename: industry.md
 --- 
 
