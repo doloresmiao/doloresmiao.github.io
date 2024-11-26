@@ -28,6 +28,10 @@ Worked on ongoing research projects about numerical correctness and performance 
 
 ECS 140A Programming Languages - University of California, Davis (Spring 2024, 2023)
 
+##  Invited Presentations, Lectures and Tutorials
+
+Tools to Diagnose and Repair Floating-Point Errors in Heterogeneous Computing Hardware and Software @ SC24
+
 ## Co-reviewer
 
 ICSE 2025, PLDI 2024, ICSE 2024, OOPSLA 2023, FSE 2022
