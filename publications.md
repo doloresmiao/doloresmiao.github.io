@@ -8,6 +8,8 @@ filename: publications.md
 
 # Publications
 
+(Undisclosed paper currently awaiting publication.)
+
 Miao, D., Laguna, I., Georgakoudis, G., Parasyris, K., & Rubio-González, C. (2024, August) \
 **An Automated OpenMP Mutation Testing Framework for Performance Optimization** \
 In Parallel Computing (PARCO), Volume 121 \
