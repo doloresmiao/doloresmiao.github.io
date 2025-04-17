@@ -8,7 +8,9 @@ filename: publications.md
 
 # Publications
 
-(Undisclosed paper currently awaiting publication.)
+Miao, D., Laguna, I., & Rubio-González, C. (2025, July) \
+**FloatGuard: Efficient Whole-Program Detection of Floating-Point Exceptions in AMD GPUs** \
+To Appear in Proceedings of the 38th ACM International Conference on Supercomputing (ICS'24) 
 
 Miao, D., Laguna, I., Georgakoudis, G., Parasyris, K., & Rubio-González, C. (2024, August) \
 **An Automated OpenMP Mutation Testing Framework for Performance Optimization** \
