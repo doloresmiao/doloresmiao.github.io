@@ -6,7 +6,7 @@ email: wjmiao (at) ucdavis (dot) edu\
 ORCID: [0000-0002-7511-0269](https://orcid.org/0000-0002-7511-0269) \
 Linkedin: [here](https://www.linkedin.com/in/dolores-miao-82b4a061/)
 CV: [here](miao_CV_resume.pdf) \
-Last updated: September 12th, 2024
+Last updated: April 17th, 2024
 
 Welcome to Dolores Miao's homepage! You can find my professional and academic work here.
 
