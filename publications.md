@@ -10,7 +10,7 @@ filename: publications.md
 
 Miao, D., Laguna, I., & Rubio-González, C. (2025, July) \
 **FloatGuard: Efficient Whole-Program Detection of Floating-Point Exceptions in AMD GPUs** \
-To Appear in Proceedings of the 34th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC'25) 
+Proceedings of the 34th ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC'25) 
 
 Miao, D., Laguna, I., Georgakoudis, G., Parasyris, K., & Rubio-González, C. (2024, August) \
 **An Automated OpenMP Mutation Testing Framework for Performance Optimization** \
