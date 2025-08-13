@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Dolores Miao - Doctoral Candidate in Computer Science at University of California, Davis"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Welcome to Dolores Miao's personal homepage! You can find my professional and academic works here.
 
 # Short Biography
 
