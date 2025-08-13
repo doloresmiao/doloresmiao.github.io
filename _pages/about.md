@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "About Me"
+title: "Contact Information"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+CV: [here](cv_miao.pdf)
+Resume: [here](resume_miao.pdf)
+Last updated: 07/22/2025
 
 Welcome to Dolores Miao's personal homepage! You can find my professional and academic works here.
 
