@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-CV: [here](cv_miao.pdf)
-Resume: [here](resume_miao.pdf)
+CV: [here](files/cv_miao.pdf)
+Resume: [here](files/resume_miao.pdf)
 Last updated: 07/22/2025
 
 Welcome to Dolores Miao's personal homepage! You can find my professional and academic works here.
