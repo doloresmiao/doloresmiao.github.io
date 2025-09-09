@@ -1,10 +1,10 @@
 ---
-title: "Final Fantasy X\|X-2 HD Remaster"
+title: "Final Fantasy X/X-2 HD Remaster"
 excerpt: "HD remastered version of two of the best Final Fantasy games on PS2.<br/><img src='/images/ffx.jpg'>"
 collection: portfolio
 ---
 
-Final Fantasy X\|X-2 HD Remaster is a compilation and high-definition re-release of two classic role-playing games from Square Enix: Final Fantasy X (originally released in 2001) and its sequel Final Fantasy X-2 (2003). The remaster was first launched for PlayStation 3 and PlayStation Vita in 2013 in Japan (2014 internationally), later coming to PlayStation 4, Windows PC, Xbox One, and Nintendo Switch.
+Final Fantasy X/X-2 HD Remaster is a compilation and high-definition re-release of two classic role-playing games from Square Enix: Final Fantasy X (originally released in 2001) and its sequel Final Fantasy X-2 (2003). The remaster was first launched for PlayStation 3 and PlayStation Vita in 2013 in Japan (2014 internationally), later coming to PlayStation 4, Windows PC, Xbox One, and Nintendo Switch.
 
 ## What’s Included
 
