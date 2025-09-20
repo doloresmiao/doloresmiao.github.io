@@ -23,7 +23,3 @@ Speed Mode: Toggle faster gameplay (e.g., 2× / 4×, depending on platform) for 
 Quality-of-Life: Shorter load times, autosave, convenient map/UI improvements, and numerous balance fixes (e.g., treasure adjustments—no more missable Zodiac Spear due to “trap chests”).
 
 Extra Modes: New Game+ / New Game– style options for challenge runs, plus difficulty/balance refinements from the international version.
-
-## Reception
-
-Praised for modernizing a forward-thinking RPG, The Zodiac Age highlights FFXII’s standout Gambit and Zodiac systems, political storytelling, and sweeping score—while the speed toggle, revamped job boards, and Trial Mode make it friendlier (and deeper) than ever for both newcomers and returning players.

@@ -23,7 +23,3 @@ Remastered Audio – Over 60 tracks of Final Fantasy X’s original soundtrack w
 Cross-Save (PlayStation versions) – Ability to share progress across PlayStation 3, 4, and Vita.
 
 Quality-of-Life Options (later versions) – On PC and newer console releases, players can use boosters like fast-forwarding battles, auto-max stats, and encounter toggles.
-
-## Reception
-
-The remaster has been widely praised for faithfully updating two beloved classics while preserving their gameplay and narrative depth. Final Fantasy X in particular is remembered for its emotional story and voice acting, while X-2 stands out for its experimental tone and battle system.
