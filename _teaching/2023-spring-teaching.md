@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant - ECS 140A - Programming Languages"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching
